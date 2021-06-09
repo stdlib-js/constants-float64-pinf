@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-float64-pinf",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "description": "Positive infinity.",
   "license": "Apache-2.0",
   "author": {
