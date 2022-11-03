@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT64_PINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-pinf@deno/mod.js';
+import FLOAT64_PINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-pinf@v0.0.8-deno/mod.js';
 ```
 
 #### FLOAT64_PINF
@@ -56,7 +56,7 @@ var bool = ( FLOAT64_PINF === Infinity );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT64_PINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-pinf@deno/mod.js';
+import FLOAT64_PINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-pinf@v0.0.8-deno/mod.js';
 
 console.log( FLOAT64_PINF );
 // => Infinity
