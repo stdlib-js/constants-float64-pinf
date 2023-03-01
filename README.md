@@ -144,7 +144,7 @@ Macro for [double-precision floating-point][ieee754] positive infinity.
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/float64/ninf`][@stdlib/constants/float64/ninf]</span><span class="delimiter">: </span><span class="description">double-precision floating-point negative infinity.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/ninf`][@stdlib/constants/float64/ninf]</span><span class="delimiter">: </span><span class="description">double-precision floating-point negative infinity.</span>
 
 </section>
 
