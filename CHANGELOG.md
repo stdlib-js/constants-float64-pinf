@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-18)
+## Unreleased (2026-10-30)
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#11209](https://github.com/stdlib-js/stdlib/issues/11209)
+[#11209](https://github.com/stdlib-js/stdlib/issues/11209), [#16332](https://github.com/stdlib-js/stdlib/issues/16332)
 
 </section>
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`43a6e68`](https://github.com/stdlib-js/stdlib/commit/43a6e68eb642adc5335a9710b01142c35b329e87) - **chore:** fix JavaScript lint errors [(#16337)](https://github.com/stdlib-js/stdlib/pull/16337) _(by AKULA MANOJ)_
 -   [`a9ded39`](https://github.com/stdlib-js/stdlib/commit/a9ded39203d2cbc9ff79b0cc96f0fbd2a962b36f) - **chore:** clean-up [(#12446)](https://github.com/stdlib-js/stdlib/pull/12446) _(by Philipp Burckhardt, Athan Reines)_
 -   [`1396582`](https://github.com/stdlib-js/stdlib/commit/1396582a1c2c075d60f79d72115145b5ee2dd245) - **chore:** fix JavaScript lint errors [(#11211)](https://github.com/stdlib-js/stdlib/pull/11211) _(by Jean Carlos Vargas, Athan Reines)_
 
@@ -37,8 +38,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   AKULA MANOJ
 -   Athan Reines
 -   Jean Carlos Vargas
 -   Philipp Burckhardt
